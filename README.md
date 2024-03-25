@@ -5,7 +5,7 @@ The problem this database was designed to solved is outlined in problem-statemen
 
 My ER diagram model of how the database would function is found in gn-model.pdf
 
-My outlined set of relations for my database is in gng.md
+My outlined set of relations(relational schema) for my database is in gng.md
 
 My creation commands for creating the database are in gng-construct.sql
 
