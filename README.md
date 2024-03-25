@@ -7,6 +7,6 @@ My ER diagram model of how the database would function is found in gn-model.pdf
 
 My outlined set of relations(relational schema) for my database is in gng.md
 
-My creation commands for creating the database are in gng-construct.sql
+My postgreSQL table creation commands for creating the database and sample data are in gng-construct.sql
 
 Some example queries for using this database are in gng-queries.sql
